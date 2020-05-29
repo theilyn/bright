@@ -113,7 +113,7 @@ header .container .col-md-7 p {
   padding: 20vmin 0vmin;
 }
 
-.section-1 .row .col-md-6 .pray img {
+.section-1 .row .col-md-6 .presentation img {
   opacity: 0.8;
   width: 80%;
   border-radius: 0.2em;
@@ -152,7 +152,7 @@ header .container .col-md-7 p {
 .cover {
   width: 100%;
   height: 55vmin;
-  background: url("../AgainAgain/assets/Pool10.jpeg");
+  background: url("../AgainAgain/bright/assets/Pool10.jpeg") no-repeat;
   background-position: -5rem -5rem;
   background-size: 100%;
   position: relative;
