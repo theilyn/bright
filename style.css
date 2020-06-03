@@ -14,7 +14,7 @@ section {
   --Patua: "Patua One", cursive;
   --Lobster: "lobster", cursive;
   --light-black: #2e2c2caf;
-  --bggradient: linear-gradient(to bottom, #031246ec, #031246ec);
+  --bggradient: linear-gradient(to bottom, #031246ec, #ffffff);
   --light-gray: rgba(255, 255, 255, 0.877);
 }
 
@@ -152,7 +152,7 @@ header .container .col-md-7 p {
 .cover {
   width: 100%;
   height: 55vmin;
-  background: url("../AgainAgain/bright/assets/Pool10.jpeg") no-repeat;
+  background: url("../AgainAgain/src/Pool10.JPEG") no-repeat;
   background-position: -5rem -5rem;
   background-size: 100%;
   position: relative;
